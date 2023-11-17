@@ -37,6 +37,7 @@ Currently waving my wand as a  a student at IE University, where I'm majoring in
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername)
 
 ### 🧙‍♂️ Other Skills
 
