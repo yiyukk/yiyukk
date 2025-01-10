@@ -49,10 +49,8 @@ Additionally, I'm passionate about website design and eager to explore more area
   - MLops
     
 ## 🚀 Projects
-
-### 🏰 [Deloitte Corperate Project]
-
-### 🧙‍♂️ [AI in Retail in Vodca]
+  - Deloitte Corperate Project
+  - AI in Retail in Vodca
 
 
 
