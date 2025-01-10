@@ -19,70 +19,43 @@ p/a-->
 
 ## Hey there! 👋
 
-I'm Yiyu, a whimsical Business Analytics on a journey through the enchanting world of technology. 🚀 My days are filled with a dash of creativity, a sprinkle of curiosity, and a whole lot of coding magic.
+I'm Yiyu, someone who's on a journey to uncover my potential in data analytics area. 🚀 
+My days are filled with a dash of creativity, a sprinkle of curiosity, and a whole lot of coding magic.
 
 ## 🌈 About Me
 
-Currently waving my wand as a  a student at IE University, where I'm majoring in Big Data. My academic cauldron has brewed up a concoction of knowledge in Coding, and I'm ready to cast spells on real-world projects.
+I hold a Master Degree in Business Analytics and Big Data, I'm not only practice coding skills, but also doing sth special like algorithmic trading. 
+During my bachelor's, I  specialized in finance and gained hands-on experience in the field. 
+Additionally, I'm passionate about website design and eager to explore more areas in my career. I'm always open to new and creatives ideas and look forward to receive valuable feedbacks and expanding my skill set.
 
 ## ✨ Skills
 
-### 🚀 Languages
-
-- **Wizardry in:**
+### ⚡ Programming Languages
+  - SQL
   - Python
-  - JavaScript
-  - Java
-  - C++
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername)
-
-### 🧙‍♂️ Other Skills
-
-- **Charm against bugs:** [Your debugging skills and strategies]
-- **Alchemy with:** [List your tools, frameworks, and technologies]
-- **Magical databases:** [Any database systems you're familiar with, e.g., MySQL, MongoDB]
-
+  - R
+### 🔭 Data Visualization Tools
+  - Tableau
+  - Looker Studio
+  - Power BI
+### 🌱 Libraries and Tools
+  - Libraries: pandas, numpy, scikit-learn, matplotlib, plotly
+  - Databases: MySQL, MongoDB, DB2
+### 🧙‍♂️ Other Skills & Interest
+  - Mathematics
+  - Machine Learning
+  - Algorithmic Trading
+  - Blockchain & web3
+  - MLops
+    
 ## 🚀 Projects
 
-### 🏰 [Project Name 1]
+### 🏰 [Deloitte Corperate Project]
 
-Cooked up a potion of [Brief description of the project, your role, and the technologies used].
+### 🧙‍♂️ [AI in Retail in Vodca]
 
-### 🧙‍♂️ [Project Name 2]
 
-Unleashed my magic on [Brief description of the project, your role, and the technologies used].
-
-[Feel free to add more projects to your magical portfolio]
-
-## 📜 Experience
-
-### 🌌 [Company/Institution Name - Position]
-
-- **Duration:** [Start Date] - [End Date]
-- Dabbled in [Brief description of your role and major achievements].
-
-### 🌠 [Company/Institution Name - Position]
-
-- **Duration:** [Start Date] - [End Date]
-- Conjured up wonders in [Brief description of your role and major achievements].
-
-[Feel free to add more magical experiences]
-
-## 📚 Education
-
-### 🏰 [University Name - Degree]
-
-- **Majoring in:** [Your Major]
-- **Expected Graduation:** [Expected Graduation Year or Graduation Year]
-
-### 🎓 [High School Name]
-
-- **Graduation Year:** [High School Graduation Year]
 
 ## 📬 Contact
 
-- **Summon me on LinkedIn:** [Your LinkedIn Profile URL]
-- **Send an owl to my Email:** [Your Email Address]
+- **Send an owl to my Email:** sissyyiyu@gmail.com
