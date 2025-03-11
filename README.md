@@ -19,7 +19,7 @@ p/a-->
 
 ## Hey there! 👋
 
-I'm Yiyu, someone who's on a journey to uncover my potential in data analytics area. 🚀 
+I'm Yiyu, someone who's on a journey to uncover my potential in data analytics and engineer area. 🚀 
 My days are filled with a dash of creativity, a sprinkle of curiosity, and a whole lot of coding magic.
 
 ## 🌈 About Me
@@ -31,6 +31,7 @@ Additionally, I'm passionate about website design and eager to explore more area
 ## ✨ Skills
 
 ### ⚡ Programming Languages
+  - Java
   - SQL
   - Python
   - R
@@ -56,4 +57,4 @@ Additionally, I'm passionate about website design and eager to explore more area
 
 ## 📬 Contact
 
-- **Send an owl to my Email:** sissyyiyu@gmail.com
+- **Send an owl to my Email:** yiyuc0124@gmail.com
